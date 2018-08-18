@@ -1,0 +1,4 @@
+﻿  GoodGuy.cpp
+c:\users\zealouszapp\downloads\gameproj (2)\gameproj\goodguy.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameProj.vcxproj -> C:\Users\ZealousZapp\Downloads\GameProj (2)\GameProj\x64\Debug\GameProj.exe
+  GameProj.vcxproj -> C:\Users\ZealousZapp\Downloads\GameProj (2)\GameProj\x64\Debug\GameProj.pdb (Full PDB)
